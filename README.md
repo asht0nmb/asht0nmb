@@ -2,7 +2,7 @@
 
 An Informatics (Data Science) and Business student at the University of Washington, working across startups and enterprise, with a focus on product strategy and data science. I love to learn and explore new things, so in my free time I spend time having fun here.
 
-What interests me most is the space between technical rigor and human understanding. The best data and products don't just find and build on patterns; they reveal and understand how people think, what they need, and where opportunities hide. I believe in building tools that make the complex accessible, and improve the lives of those who use them.
+What interests me most is the space between technical rigor and human understanding. The best data and products don't just find and build on patterns; they reveal and understand how people think, what they need, and where opportunities hide (like AI always using the rule of three). I believe in building tools that make the complex accessible, and improve the lives of those who use them.
 
 Right now, I'm having fun teaching myself quantitative finance, building sentiment analysis tools, and hiking a lot. 
 
