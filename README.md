@@ -8,7 +8,6 @@ Right now, I'm having fun teaching myself quantitative finance, building sentime
 
 I strongly believe that in this era, where so much can be automated with one-shot success, creativity remains uniquely human, and failure remains the greatest precursor to success. Highly recommend reading [*Range*](https://www.google.com/search?q=Range%3A+Why+Generalists+Triumph+in+a+Specialized+World%0D%0A&sca_esv=e9969d286c4c39d7&ei=ELAdaaaqGtX40PEP4p7PyQg&ved=0ahUKEwim8pr-k_6QAxVVPDQIHWLPM4kQ4dUDCBE&uact=5&oq=Range%3A+Why+Generalists+Triumph+in+a+Specialized+World%0D%0A&gs_lp=Egxnd3Mtd2l6LXNlcnAiNlJhbmdlOiBXaHkgR2VuZXJhbGlzdHMgVHJpdW1waCBpbiBhIFNwZWNpYWxpemVkIFdvcmxkCjIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzINEAAYgAQYsAMYQxiKBTINEAAYgAQYsAMYQxiKBTINEAAYgAQYsAMYQxiKBTINEAAYgAQYsAMYQxiKBTIOEAAYsAMY5AIY1gTYAQEyDhAAGLADGOQCGNYE2AEBMg4QABiwAxjkAhjWBNgBATITEC4YgAQYsAMYQxjIAxiKBdgBATITEC4YgAQYsAMYQxjIAxiKBdgBATITEC4YgAQYsAMYQxjIAxiKBdgBATITEC4YgAQYsAMYQxjIAxiKBdgBAUi_CFDMBVjMBXADeAGQAQCYAQCgAQCqAQC4AQPIAQD4AQL4AQGYAgOgAgeYAwCIBgGQBhO6BgYIARABGAmSBwEzoAcAsgcAuAcAwgcDMC4zyAcG&sclient=gws-wiz-serp) by David Epstein
 
--
 
 LinkedIn: [ashton-meyer-bibbins](https://linkedin.com/in/ashton-meyer-bibbins)  
 Email: ameyerbibbins@gmail.com
