@@ -1,6 +1,6 @@
 ## 👋 Hi I'm Ashton Meyer-Bibbins
 
-An Informatics and Business student at the University of Washington, where I've worked across startup and enterprise, with a focus on product strategy and data science. I love to learn and explore new things, so in my free time I have fun on here.
+An Informatics and Business student at the University of Washington, with a focus on product strategy and data science. I love to learn and explore new things, so in my free time I have fun on here.
 
 The idea that interests me most is the space between technical rigor and human understanding. The best data and products don't just find and build on patterns; they reveal and understand exactly how people think and where opportunities hide. I believe in building tools that make the complex accessible, while improving the lives of those who use them.
 
