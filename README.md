@@ -2,7 +2,7 @@
 
 An Informatics and Finance student at the University of Washington, with a focus on product strategy and full-stack dev, but working in management consulting. I love to learn and explore new things, so in my free time I have fun here.
 
-The idea that interests me most is that of the space between technical complexity and human understanding; how, in this age where gaps are closing much faster than they open, the only moat that seemingly exists is the ability to think through the lens of your own lived experience, and take action on those ideas which precede unoriginal influence. The best products don't just identify and build on patterns; they identify, understand, and navigate between problem, solution, and opportunity. I believe in building products that make the most of our own ingenuity, making the complex accessible, and improving the lives of those who use them.
+The idea that interests me most is that of the space between technical complexity and human understanding; how, in this age where gaps are closing much faster than they open, the only moat that seemingly exists is the ability to think through the lens of your own lived experience, and take action on those ideas which precede unoriginal influence. The best products don't just find and build on patterns; they identify, understand, and navigate between problem, solution, and opportunity. I believe in building products that make the most of these abilities and our own ingenuity, while improving the lives of those who use them.
 
 Right now, I'm having fun teaching myself quantitative finance, building distributed systems orchestration, working on consumer apps, and hiking a lot. 
 
